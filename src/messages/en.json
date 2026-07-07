@@ -1,0 +1,368 @@
+{
+  "site": {
+    "name": "Al Iman Model High School – Aramoun",
+    "tagline": "Faith-rooted upbringing, a nurturing environment, and distinguished education",
+    "description": "A private school in Aramoun devoted to building the whole person, from KG1 through Grade 12 (Life Sciences track)."
+  },
+  "actions": {
+    "whatsapp": "Chat on WhatsApp",
+    "chatShort": "Message us",
+    "call": "Call us",
+    "apply": "Apply now",
+    "visit": "Book a visit",
+    "inquire": "Inquire",
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "switchLocale": "العربية"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "academics": "Academics",
+    "stages": "Academic Stages",
+    "why": "Why Us",
+    "schoolLife": "School Life",
+    "admissions": "Admissions",
+    "tuition": "Tuition & Fees",
+    "news": "News & Events",
+    "careers": "Careers",
+    "contact": "Contact"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "whatsappFab": "Message the school on WhatsApp",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNav": "Main navigation",
+    "footerNav": "Footer links",
+    "homeLink": "Al Iman Model High School – Home",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Welcome to Al Iman Model High School – Aramoun",
+      "title": "Where faith-rooted upbringing meets distinguished education",
+      "titleHighlight": "faith-rooted upbringing",
+      "badgeRing": "Since 2002 • Faith-rooted upbringing • Nurturing environment • ",
+      "lead": "From KG1 through Grade 12 — Life Sciences track — we walk beside your children step by step — in a safe environment that embraces every child and nurtures their character, values, and abilities.",
+      "badgesTitle": "Every stage of the journey",
+      "badges": {
+        "kg": "Kindergarten",
+        "elementary": "Elementary",
+        "intermediate": "Intermediate",
+        "secondary": "Secondary"
+      },
+      "scrollHint": "Discover more",
+      "marquee": [
+        "Grounded knowledge",
+        "Authentic values",
+        "A safe environment",
+        "Two strong languages",
+        "Talents polished",
+        "Warm belonging"
+      ]
+    },
+    "intro": {
+      "eyebrow": "Our identity",
+      "title": "An institution that builds the people of tomorrow",
+      "who": {
+        "title": "Who we are",
+        "body": "Al Iman High School – Aramoun is an academic, educational institution that strives to raise a righteous, faithful, learned, cultured, aware, and productive person — open to the issues of the age, and a partner in shaping the future."
+      },
+      "mission": {
+        "title": "Our mission",
+        "body": "To enrich every student with the finest resources for achievement and excellence — through our accredited curricula, which equip students with intellectual, scientific, and practical skills, and through a qualified teaching staff that combines experience and competence, accompanying every student with the individual care that brings out their very best."
+      },
+      "goals": {
+        "title": "Our goals",
+        "items": [
+          "Strengthening social and moral values.",
+          "Developing scientific and educational values.",
+          "Building a distinguished, self-confident character in every student.",
+          "Cooperating with others for the good of our homeland and nation."
+        ]
+      },
+      "affiliation": {
+        "title": "The Islamic Education Association",
+        "body": "Al Iman High School – Aramoun belongs to the Islamic Education Association, which oversees Al Iman Schools across its branches:",
+        "branches": ["Zarif", "Bourj", "Cola", "Aramoun", "Aarqoub", "Tripoli", "Barja"]
+      }
+    },
+    "stats": {
+      "eyebrow": "By the numbers",
+      "title": "A record we are proud of",
+      "items": {
+        "years": "Years of nurturing education",
+        "students": "Students",
+        "educators": "Teaching staff members",
+        "success": "Official exam success rate"
+      }
+    },
+    "stages": {
+      "eyebrow": "Our academic stages",
+      "title": "One complete journey, from KG1 to Grade 12",
+      "lead": "A carefully sequenced education, where each stage hands what it has built to the next.",
+      "agesLabel": "Ages",
+      "items": {
+        "kg": {
+          "name": "Kindergarten",
+          "ages": "Ages 3–5",
+          "desc": "A safe, warm beginning that nurtures curiosity, language, and social skills through purposeful play."
+        },
+        "elementary": {
+          "name": "Elementary",
+          "ages": "Ages 6–11",
+          "desc": "Solid foundations in languages, mathematics, and science, alongside strong learning habits."
+        },
+        "intermediate": {
+          "name": "Intermediate",
+          "ages": "Ages 12–14",
+          "desc": "Deeper knowledge, character building, and serious preparation for the official Brevet certificate."
+        },
+        "secondary": {
+          "name": "Secondary",
+          "ages": "Ages 15–18",
+          "desc": "Life Sciences track: focused academic guidance with intensive preparation for official exams and university."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Why Al Iman?",
+      "title": "Seven reasons parents choose us first",
+      "items": {
+        "safety": {
+          "title": "A safe campus",
+          "desc": "A secure, monitored campus with continuous supervision from arrival to dismissal."
+        },
+        "values": {
+          "title": "Values-based education",
+          "desc": "A pastoral program that instills character and belonging, turning values into daily behavior."
+        },
+        "educators": {
+          "title": "Accomplished educators",
+          "desc": "Certified teachers who keep pace with modern teaching methods through continuous training."
+        },
+        "results": {
+          "title": "Honorable official results",
+          "desc": "Consistently strong pass rates in the official certificates, year after year."
+        },
+        "languages": {
+          "title": "Two languages, wide horizons",
+          "desc": "Deep-rooted Arabic and growing mastery of English from the earliest grades."
+        },
+        "health": {
+          "title": "Your child's health first",
+          "desc": "Dedicated educational and psychological supervision, with a full-time school nurse accompanying our students throughout the day."
+        },
+        "care": {
+          "title": "Always in touch with parents",
+          "desc": "Balanced classes, regular reports, and open communication channels all year long."
+        }
+      }
+    },
+    "facilities": {
+      "eyebrow": "Our facilities",
+      "title": "A campus designed for learning",
+      "lead": "Spaces that inspire students and support every side of their growth.",
+      "items": {
+        "labs": {
+          "title": "Science laboratories",
+          "desc": "Hands-on experiments that make physics, chemistry, and biology tangible — not memorized."
+        },
+        "library": {
+          "title": "The library",
+          "desc": "A quiet space for reading and research, with an ever-growing Arabic and foreign collection."
+        },
+        "computers": {
+          "title": "Computer lab",
+          "desc": "Modern equipment and digital curricula that build technology skills from an early age."
+        },
+        "sports": {
+          "title": "Playgrounds & courts",
+          "desc": "Generous spaces for sport and play that release energy and build team spirit."
+        },
+        "prayer": {
+          "title": "Prayer hall",
+          "desc": "A calm spiritual space that connects students with their values at the heart of the school day."
+        },
+        "theater": {
+          "title": "Activities hall & theater",
+          "desc": "A stage for talent: theater, public speaking, celebrations, and performances all year round."
+        }
+      }
+    },
+    "life": {
+      "eyebrow": "School life",
+      "title": "Learning doesn't stop at the classroom door",
+      "lead": "Activities and programs that polish talents and build character throughout the year.",
+      "items": {
+        "trips": {
+          "title": "Educational trips",
+          "desc": "Field visits that turn lessons into living experiences beyond the school walls."
+        },
+        "clubs": {
+          "title": "Talent clubs",
+          "desc": "Robotics, debate, chess, and more — clubs that uncover every student's passion."
+        },
+        "sports": {
+          "title": "Sports days",
+          "desc": "Tournaments and open days that grow sportsmanship and belonging."
+        },
+        "quran": {
+          "title": "Quran & values programs",
+          "desc": "Circles and pastoral programs that nourish the spirit and anchor good character."
+        },
+        "arts": {
+          "title": "Arts & theater",
+          "desc": "Drawing, music, and drama that open wide doors for the imagination."
+        }
+      }
+    },
+    "news": {
+      "eyebrow": "Latest updates",
+      "title": "News & events",
+      "lead": "What's happening at our school, week by week.",
+      "items": {
+        "camp": {
+          "category": "Activities",
+          "title": "The Fifth Summer Camp",
+          "excerpt": "Days full of fun, discovery, creativity, and beautiful friendships — a special program, a joyful atmosphere, and weekly trips that create unforgettable memories."
+        },
+        "science": {
+          "category": "Programs",
+          "title": "Future Compass launches",
+          "excerpt": "A comprehensive guidance program for secondary students: a career-thinking workshop with Mr. Mahdi Gharib, and a university-major and exam-application workshop with Mr. Wissam Abou Issa — met with lively, constructive discussion."
+        },
+        "registration": {
+          "category": "Programs",
+          "title": "Introducing: Ruwwad Al Iman",
+          "excerpt": "Our interactive pastoral program for secondary and grade-9 students: faith, thinking skills, character and life skills, and wholesome friendship — every Saturday 1:00–3:15 pm from 24 January 2026. Registration via Eschool."
+        },
+        "honors": {
+          "category": "Achievements",
+          "title": "New pride for our school: first place",
+          "excerpt": "Congratulations to our outstanding student on winning first place in the Trilingual Language Competition, with thanks to Beirut Arab University for this meaningful initiative. Onward to more excellence"
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "What parents say",
+      "title": "Parents' trust is our dearest testimonial",
+      "items": {
+        "t1": {
+          "quote": "From day one we felt our son was in safe hands; the follow-up is daily and reaching the administration is quick and easy.",
+          "name": "Umm Omar",
+          "role": "Mother of a grade 3 student"
+        },
+        "t2": {
+          "quote": "The school doesn't just teach — it raises. We saw a beautiful change in our daughter's character and self-confidence.",
+          "name": "Abu Leen",
+          "role": "Father of an intermediate student"
+        },
+        "t3": {
+          "quote": "The official results were excellent, and best of all, our children head to school every morning with love.",
+          "name": "The Hammoud family",
+          "role": "Parents of two students, elementary and secondary"
+        }
+      }
+    },
+    "gallery": {
+      "eyebrow": "Around campus",
+      "title": "Glimpses of our days",
+      "lead": "From classrooms to courtyards — moments that tell the story of a day at Al Iman.",
+      "tiles": {
+        "scientist": "Scientist of the Month",
+        "graduation": "Graduation ceremony",
+        "joy": "Joyful moments",
+        "sports": "Sports championships",
+        "volunteering": "Volunteering",
+        "science": "Science Fair"
+      }
+    },
+    "admissions": {
+      "eyebrow": "Admissions",
+      "title": "Your path to us, in four steps",
+      "lead": "A clear, simple registration journey — our team walks beside you at every step.",
+      "steps": {
+        "s1": { "title": "Reach out", "desc": "Message us on WhatsApp or call to inquire and book an appointment." },
+        "s2": { "title": "Visit the school", "desc": "A guided campus tour and a meeting with the administration." },
+        "s3": { "title": "Apply", "desc": "Complete the registration form and submit the required documents." },
+        "s4": { "title": "Welcome aboard", "desc": "Admission confirmed — your child takes their seat in class." }
+      }
+    },
+    "fees": {
+      "title": "Tuition & fees for the 2026–2027 school year",
+      "grade": "Grade",
+      "lbp": "Tuition (LBP)",
+      "usd": "Operational support ($)",
+      "stationery": "Stationery, prints & trips: to be announced.",
+      "rows": {
+        "r1": "KG 1",
+        "r2": "KG 2 – KG 3",
+        "r3": "Grades 1 – 3",
+        "r4": "Grades 4 – 6",
+        "r5": "Grades 7 – 9",
+        "r6": "Secondary 1 – 3"
+      },
+      "notesTitle": "Good to know",
+      "notes": {
+        "registration": {
+          "title": "Registration fee",
+          "desc": "10,000,000 LBP + $300 — included in the tuition above, non-refundable and not subject to any discount."
+        },
+        "siblings": {
+          "title": "Sibling discount",
+          "desc": "10% of tuition and support for the 2nd child, 15% for the 3rd, and 20% from the 4th onward — KG1 is not subject to discounts."
+        },
+        "newStudent": {
+          "title": "New students",
+          "desc": "A $100 file-opening fee is paid at registration; fees and stationery are also settled at registration."
+        },
+        "payment": {
+          "title": "Payment schedule",
+          "desc": "Tuition and operational support are paid per the agreement signed with the school."
+        }
+      }
+    },
+    "proof": {
+      "eyebrow": "The story behind this website",
+      "title": "This website was built by one of our students",
+      "p1": "The pages you are browsing were not commissioned from an agency — they were designed and built by a student of Al Iman Model High School, Aramoun. We do not simply graduate students; we give them the courage to think, and the tools that turn curiosity into skill, and skill into real work people can touch.",
+      "p2": "If one student can craft this… imagine what your children are capable of.",
+      "signature": "By our students, with their school behind them"
+    },
+    "cta": {
+      "title": "Give your children the start they deserve",
+      "lead": "Our team is ready to answer your questions and walk you through registration — on WhatsApp, by phone, or with a visit to the school.",
+      "addressNote": "Or visit us on campus:",
+      "mapLink": "Find us on Google Maps"
+    }
+  },
+  "pages": {
+    "about": {
+      "title": "About the School",
+      "lead": "Who we are, our mission, our goals, and the values we raise our generations on."
+    },
+    "academics": { "title": "Academics", "lead": "One complete educational journey, from KG1 to the official secondary certificate." },
+    "admissions": { "title": "Admissions", "lead": "Clear, simple steps that bring your children to their seats." },
+    "news": { "title": "News & Events", "lead": "The latest from our school, all year round." },
+    "contact": { "title": "Contact Us", "lead": "We would love to hear from you and answer every question." }
+  },
+  "footer": {
+    "about": "A private school in Aramoun devoted to building the whole person — in knowledge and in character — from KG1 through Grade 12.",
+    "affiliation": "Al Iman High School – Aramoun belongs to the Islamic Education Association, which oversees Al Iman Schools across its branches: Zarif, Bourj, Cola, Aramoun, Aarqoub, Tripoli, and Barja.",
+    "quickLinksTitle": "Quick links",
+    "contactTitle": "Get in touch",
+    "hoursLabel": "School hours",
+    "hours": "Mon – Thu: 7:30 – 2:00 · Sat: 7:30 – 12:20",
+    "principal": "Principal: Dr. Samer Ahmad Mizher",
+    "followTitle": "Follow us",
+    "addressLabel": "Address",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "viewOnMap": "Open the school's location on Google Maps",
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  }
+}
